@@ -1,0 +1,12 @@
+names:
+- brain tumor
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: braintumor-pzusy
+  url: https://universe.roboflow.com/lr02/braintumor-pzusy/dataset/3
+  version: 3
+  workspace: lr02
+test: './test/images'
+train: './train/images'
+val: './valid/images'
